@@ -21,6 +21,7 @@ def init_db():
         error TEXT
     )
     """)
+    print("Tabla 'pedidos_locales' creada o ya existente.")
 
     conn.commit()
     conn.close()
