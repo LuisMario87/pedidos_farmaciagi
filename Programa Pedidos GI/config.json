@@ -1,0 +1,9 @@
+{
+  "farmacia_id": "F1",
+  "farmacia_nombre": "Farmacia Esquina - Matias Romero",
+  "correo_emisor": "farma.oax.gi@gmail.com",
+  "correo_password": "rpkk lxqk xksl tmzm",
+  "correo_destino": "farma.oax.gi@gmail.com",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587
+}
